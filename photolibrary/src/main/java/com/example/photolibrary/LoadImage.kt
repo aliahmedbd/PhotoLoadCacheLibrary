@@ -6,6 +6,6 @@ import android.widget.ImageView
 class LoadImage {
 
     public fun loadImage(imageView : ImageView){
-        val bitmap : Bitmap = get
+//        val bitmap : Bitmap = get
     }
 }
